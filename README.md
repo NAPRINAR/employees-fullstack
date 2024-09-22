@@ -1,6 +1,6 @@
 # Для запуска проекта, необходимо выполнить следующие шаги:
 
-1. Склонировать репозиторий проекта по ссылке https://github.com/brian7346/employees-react-express на свой компьютер.
+1. Склонировать репозиторий проекта по ссылке https://github.com/NAPRINAR/employees-fullstack.git на свой компьютер.
 
 ```
 git clone https://github.com/NAPRINAR/employees-fullstack.git
