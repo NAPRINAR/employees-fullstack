@@ -9,7 +9,8 @@ git clone https://github.com/NAPRINAR/employees-fullstack.git
 2. Открыть терминал (или командную строку) и перейти в корневую директорию проекта.
 
 ```
-cd employees-react-express
+cd employees-fullstack
+
 ```
 
 3. Установить зависимости для серверной части проекта. Введите следующую команду в терминале:
